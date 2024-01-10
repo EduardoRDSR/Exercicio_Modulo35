@@ -36,7 +36,7 @@ export const BkRestaurante = styled.div<BkRestauranteProps>`
   background-image: url(${({ ResImg }) => ResImg || 'Foto Restaurante'});
   background-repeat: no-repeat;
   background-size: cover;
-  height: 250px;
+  height: 190px;
   width: 100%;
   text-align: end;
   padding: 16px;

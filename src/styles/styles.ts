@@ -32,5 +32,5 @@ export const TextPeq = styled.h6`
 `
 export const TextMin = styled.h6`
   color: ${variaveis.vermelhoEscuro};
-  font-size: 12px;
+  font-size: 10px;
 `
